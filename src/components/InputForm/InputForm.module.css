@@ -1,0 +1,16 @@
+.form {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  width: 700px;
+  gap: 32px;
+  margin-top: 82px;
+}
+
+.nextButton {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 209px;
+  background-color: #FC9B7E;
+  border-radius: 0 0 15px;
+}

@@ -1,0 +1,33 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  max-width: 310px;
+}
+
+.label {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+  color: #FFFFFF;
+  margin-bottom: 9.6px;
+}
+
+.input {
+  background-color: #464646;
+  color: #FFFFFF;
+  font-family: 'Roboto';
+  border-radius: 8px;
+  padding: 13px;
+  width: 310px;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  outline: none;
+  border: none;
+}
+
+.error {
+  color: red;
+  font-size: 10px;
+  margin-top: 3px;
+}

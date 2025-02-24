@@ -1,0 +1,13 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 59px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  border: none;
+  cursor: pointer;
+  font-family: Roboto;
+  letter-spacing: 1px;
+}
